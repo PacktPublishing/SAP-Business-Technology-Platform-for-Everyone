@@ -1,0 +1,5 @@
+Get Started with the SAP BTP Command Line Interface
+https://developers.sap.com/tutorials/cp-sapcp-getstarted.html
+
+Get Started with the Terraform Provider for BTP
+https://developers.sap.com/tutorials/btp-terraform-get-started..html

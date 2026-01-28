@@ -1,0 +1,11 @@
+Outbound certificates
+https://help.sap.com/docs/identity-provisioning/identity-provisioning/generate-and-manage-certificates-for-outbound-connection
+
+Source System List of Properties
+https://help.sap.com/docs/cloud-identity-services/cloud-identity-services/list-of-properties
+
+Source Systems Documentation
+https://help.sap.com/docs/cloud-identity-services/cloud-identity-services/source-systems
+
+System Types
+https://help.sap.com/docs/cloud-identity-services/cloud-identity-services/system-types

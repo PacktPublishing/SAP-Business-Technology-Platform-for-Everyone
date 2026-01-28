@@ -1,0 +1,5 @@
+Data center locations
+https://www.sap.com/about/trust-center/data-center.html?currentLevel&mode=region
+
+SAP Discovery Center
+https://discovery-center.cloud.sap/index.html

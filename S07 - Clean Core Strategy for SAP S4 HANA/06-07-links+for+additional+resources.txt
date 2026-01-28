@@ -1,0 +1,8 @@
+Details of documentation and guidance on extending SAP S/4HANA in the cloud and on-premise with ABAP-based extensions can be found at
+https://www.sap.com/documents/2022/10/52e0cd9b-497e-0010-bca6-c68f7e60039b.html
+
+Details on development guidelines for tier 2 extensions can be found at
+https://www.sap.com/documents/2023/05/b0bd8ae6-747e-0010-bca6-c68f7e60039b.html
+
+Details on technical use cases and recommended technologies for ABAP can be found at
+https://www.sap.com/documents/2023/05/74fc05e6-747e-0010-bca6-c68f7e60039b.html
